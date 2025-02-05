@@ -6,3 +6,6 @@ plotly
 nltk
 scikit-learn
 category_encoders
+spacy
+contractions
+tqdm
