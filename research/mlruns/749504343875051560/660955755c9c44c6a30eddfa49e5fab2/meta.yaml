@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Module_21_NLP/Case_studies/News_Classification_Using_NLP_and_Machine_Learning/research/mlruns/749504343875051560/660955755c9c44c6a30eddfa49e5fab2/artifacts
+end_time: 1738867784969
+entry_point_name: ''
+experiment_id: '749504343875051560'
+lifecycle_stage: active
+run_id: 660955755c9c44c6a30eddfa49e5fab2
+run_name: gbdt_tf_idf_bi
+run_uuid: 660955755c9c44c6a30eddfa49e5fab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738866904553
+status: 3
+tags: []
+user_id: saina

@@ -1,0 +1,8 @@
+channels:
+- defaults
+dependencies:
+- python=3.12.8
+- scikit-learn
+- cloudpickle
+- pip:
+  - mlflow==2.14.2

@@ -9,3 +9,9 @@ category_encoders
 spacy
 contractions
 tqdm
+langdetect
+gensim
+textblob
+dask
+wordcloud
+mlflow

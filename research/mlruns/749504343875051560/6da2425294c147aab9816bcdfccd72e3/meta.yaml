@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Module_21_NLP/Case_studies/News_Classification_Using_NLP_and_Machine_Learning/research/mlruns/749504343875051560/6da2425294c147aab9816bcdfccd72e3/artifacts
+end_time: 1738864382785
+entry_point_name: ''
+experiment_id: '749504343875051560'
+lifecycle_stage: active
+run_id: 6da2425294c147aab9816bcdfccd72e3
+run_name: DecisionTree_CV
+run_uuid: 6da2425294c147aab9816bcdfccd72e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738864363539
+status: 3
+tags: []
+user_id: saina

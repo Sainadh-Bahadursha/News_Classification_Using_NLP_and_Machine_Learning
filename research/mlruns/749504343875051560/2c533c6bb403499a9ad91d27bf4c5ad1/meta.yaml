@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Module_21_NLP/Case_studies/News_Classification_Using_NLP_and_Machine_Learning/research/mlruns/749504343875051560/2c533c6bb403499a9ad91d27bf4c5ad1/artifacts
+deleted_time: 1738863953234
+end_time: 1738863251025
+entry_point_name: ''
+experiment_id: '749504343875051560'
+lifecycle_stage: deleted
+run_id: 2c533c6bb403499a9ad91d27bf4c5ad1
+run_name: MultinomialNB CV
+run_uuid: 2c533c6bb403499a9ad91d27bf4c5ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738863244971
+status: 3
+tags: []
+user_id: saina
